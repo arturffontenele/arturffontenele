@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 <br>Sou estudante de Desenvolvimento de Sistemas e tenho 16 anos, sempre na busca de aprender e criar algo.<br><br>🌱 Atualmente, estou focado em:<br><br>Projetos utilizando as linguagens C# e Java<br>Evoluir no mundo da programação<br>Colaborar em iniciativas open-source<br><br>🚀 Estou buscando também:<br><br>Melhorar minhas habilidades em desenvolvimento de software<br>Explorar novas áreas como inteligência artificial e desenvolvimento web<br>Contribuir para a comunidade de desenvolvedores
 
 
